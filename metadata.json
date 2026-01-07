@@ -1,0 +1,9 @@
+
+{
+  "name": "Zenith Pro Suite",
+  "description": "An elite, AI-integrated productivity ecosystem designed as a premium Chrome Extension framework. Features neural assistant integration, real-time browsing analytics, and high-performance focus tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
